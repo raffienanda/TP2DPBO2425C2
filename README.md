@@ -1,4 +1,4 @@
-#JANJI
+# JANJI
 Saya Raffie Arsy Ananda dengan NIM 2405916 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 <hr>
 
