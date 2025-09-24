@@ -31,7 +31,7 @@ Saya mendesain OOP dengan model multilevel inheritance, untuk penjelasannya seba
 <img width="477" height="946" alt="image" src="https://github.com/user-attachments/assets/af98260c-35a2-48ec-b1e8-bcdeb4605a6d" />
 <hr>
 
-#PENJELASAN ALUR PROGRAM
+# PENJELASAN ALUR PROGRAM
 Untuk kode program C++, Java, Python menggunakan tampilan yang sama persis, yaitu.
   1. ADD data
   2. Menampilkan seluruh data dalam bentuk tabel
